@@ -1,0 +1,11 @@
+.vscode
+__pycache__
+data/*
+tif-processing
+weights/*
+configs/*
+test_model.py
+test_dataset.py
+view_tif.py
+!configs/base_config.py
+!configs/segnet_config.py
