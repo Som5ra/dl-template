@@ -1,5 +1,5 @@
 # training
-weight_saving_dir = "/home/risksis/highway_pcd_image_test/road_detection/weights/{config_name}/"
+weight_saving_dir = "/weights/{config_name}/"
 max_epoch = 200
 batch_size = 10
 ds_num_workers = 4
