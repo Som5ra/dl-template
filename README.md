@@ -1,5 +1,9 @@
-# dl-structure-repo
-data-model-train-inference
+### Deep Learning Model Template
+- Dataset
+- Model
+- Train
+- Inference
+- To_onnx(?)
 
 * Already done:
-1. Segmentation -> refer to master branch
+1. Semantic Segmentation
