@@ -3,7 +3,7 @@
 - Model
 - Train
 - Inference
-- To_onnx(?)
+- ONNX(?)
 
-* Already done:
-1. Semantic Segmentation
+### Already done:
+- Semantic Segmentation
