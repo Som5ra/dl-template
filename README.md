@@ -5,5 +5,5 @@
 - Inference
 - ONNX(?)
 
-
+### Already done:
 - [x] Semantic Segmentation
