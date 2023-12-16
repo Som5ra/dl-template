@@ -6,4 +6,4 @@
 - ONNX(?)
 
 ### Already done:
-- [x] Semantic Segmentation
+- [x] Img2Img
