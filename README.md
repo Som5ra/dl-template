@@ -6,4 +6,4 @@
 - ONNX(?)
 
 ### Already done:
-- [x] Img2Img
+- [x] Img2Mask
